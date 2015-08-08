@@ -9,7 +9,9 @@ Running your video file through this application makes your MP4 files ready for 
 If you just want the source then you should checkout the current trunk from SVN. If you need the demonstration-files (demo/demo.mp4 + demo/index.php) then you should download the archive-release (featured download).
 
 
-
+Adobe Air application for same target : QTIndexSwapper 
+website: http://renaun.com/blog/code/qtindexswapper/
+download link: http://renaun.com/air/QTIndexSwapper.air
 
 
 
